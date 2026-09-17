@@ -1,53 +1,45 @@
-🛒 Lista de Compras
+# Natan Guimarães — Portfólio
 
-Projeto desenvolvido durante meus estudos de programação para praticar
-JavaScript e manipulação do DOM.
+Portfólio pessoal desenvolvido para apresentar um pouco sobre mim,
+meus interesses, habilidades e projetos que venho desenvolvendo
+durante meus estudos de programação.
 
-📌 Sobre o projeto
+## Sobre mim
 
-A Lista de Compras permite adicionar itens dinamicamente a uma lista
-através de um campo de texto e um botão.
+Sou estudante de programação e atualmente tenho mais interesse na
+área de Back-end.
 
-O projeto foi desenvolvido com foco em praticar a interação entre
-HTML, CSS e JavaScript.
+Estou estudando e praticando principalmente JavaScript e Python,
+enquanto continuo desenvolvendo meus conhecimentos em desenvolvimento Web.
 
-## 🚀 Funcionalidades
+## Projetos
 
-- Adicionar itens à lista
-- Criar elementos dinamicamente com JavaScript
-- Atualizar a lista sem recarregar a página
-- Verificar quando a lista está vazia
-- Interface simples e responsiva
+### BURNOUT
 
-## 🛠️ Tecnologias utilizadas
+Projeto inspirado na cultura skate, música e estética underground
+dos anos 90/2000.
 
-- HTML5
-- CSS3
+A ideia foi desenvolver uma experiência visual diferente,
+trabalhando com HTML, CSS e JavaScript.
+
+### Jogo do Número Secreto
+
+Projeto desenvolvido para praticar lógica de programação e
+JavaScript, trabalhando com interação do usuário e manipulação
+dos elementos da página.
+
+## Tecnologias
+
+- HTML
+- CSS
 - JavaScript
+- Python
 
-## 📚 O que pratiquei
+## Objetivo
 
-Durante o desenvolvimento deste projeto, pratiquei:
+Continuar estudando programação, desenvolver projetos cada vez mais
+completos e me aprofundar na área de Back-end.
 
-- `addEventListener`
-- Manipulação do DOM
-- `createElement`
-- `appendChild`
-- Funções JavaScript
-- Importação de módulos
-- Organização de arquivos
+---
 
-## 📁 Estrutura do projeto
-
-```text
-lista-de-compras/
-│
-├── index.html
-├── index.js
-├── styles.css
-├── img/
-│   └── bag.png
-│
-└── scripts/
-    ├── criarItemDaLista.js
-    └── verificarListaVazia.js
+Desenvolvido por **Natan Guimarães**.
